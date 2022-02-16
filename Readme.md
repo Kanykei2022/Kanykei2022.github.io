@@ -1,2 +1,3 @@
-This is my portfolio
-# Kanykei2022.github.io
+# Deployed link
+
+https://kanykei2022.github.io/
